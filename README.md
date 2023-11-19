@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kartikey302" target="blank"><img src="https://img.shields.io/twitter/follow/kartikey302?logo=twitter&style=for-the-badge" alt="kartikey302" /></a> </p>
 
-- 🌱 I’m currently learning **Etherjs, Reactjs**
+- 🌱 I’m currently learning **SmartContract Auditing, ExpressJS**
 
-- 💬 Ask me about **solidity, ethereum, solana,**
+- 💬 Ask me about **solidity, ethereum, solana, cosmos, DEFI**
 
 - 📫 How to reach me **kartikeykiroula6789@gmail.com**
 
