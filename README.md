@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kartikeykiroula6789@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ijLi1oASpj5IE_gRwog7Ba4oRVgd5HQY/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XoGeOZ_NxoOmFg3DFQ6z4LTeaLyLOQW4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
